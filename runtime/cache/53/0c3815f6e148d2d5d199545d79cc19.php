@@ -1,0 +1,3 @@
+<?php
+//000000000001a:5:{i:0;a:3:{s:8:"goods_id";i:1;s:10:"goods_name";s:61:"Apple iPhone 6s Plus 16G 玫瑰金 移动联通电信4G手机";s:10:"shop_price";s:7:"6007.00";}i:1;a:3:{s:8:"goods_id";i:39;s:10:"goods_name";s:54:"华为（HUAWEI） M2 10.0 平板电脑 WiFi 月光银";s:10:"shop_price";s:7:"2288.00";}i:2;a:3:{s:8:"goods_id";i:40;s:10:"goods_name";s:80:"荣耀X2 标准版 双卡双待双通 移动/联通双4G 16GB ROM（月光银）";s:10:"shop_price";s:7:"1999.00";}i:3;a:3:{s:8:"goods_id";i:41;s:10:"goods_name";s:99:"华为（HUAWEI） M2 8英寸平板电脑（1920×1200 IPS屏 海思麒麟930 16GB WiFi）香槟金";s:10:"shop_price";s:7:"1588.00";}i:4;a:3:{s:8:"goods_id";i:42;s:10:"goods_name";s:67:"Teclast/台电 X80 Plus WIFI 32GB Win10平板电脑双系统8英寸";s:10:"shop_price";s:6:"499.00";}}
+?>

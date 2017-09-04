@@ -1,0 +1,3 @@
+<?php
+//000000000001a:1:{i:0;a:16:{s:5:"ad_id";i:3;s:3:"pid";i:2;s:10:"media_type";i:0;s:7:"ad_name";s:19:"首页banner轮播1";s:7:"ad_link";s:21:"http://www.tp-shop.cn";s:7:"ad_code";s:65:"/public/upload/ad/2017/05-20/5b3261f64a247198d8c23a2d4bf3f8b7.jpg";s:10:"start_time";i:1441123200;s:8:"end_time";i:1731513600;s:8:"link_man";s:0:"";s:10:"link_email";s:0:"";s:10:"link_phone";s:0:"";s:11:"click_count";i:0;s:7:"enabled";i:1;s:7:"orderby";i:50;s:6:"target";i:1;s:7:"bgcolor";s:7:"#64b5fd";}}
+?>
